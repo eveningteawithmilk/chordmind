@@ -52,7 +52,7 @@ The full app will load! 🎉
 - 🎵 **Generator Tab** — Pick key/mood/genre, generate chord progressions
 - 💾 **Saved Tab** — All your saved progressions
 
-## API Endpoints (for your college submission):
+## API Endpoints
 | Method | URL | What it does |
 |--------|-----|-------------|
 | GET | /api/health | Check server is running |
